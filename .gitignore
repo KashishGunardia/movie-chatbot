@@ -1,0 +1,21 @@
+```
+# Environment
+.env
+
+# Session file
+session_id.txt
+
+# Vector database (too large for git)
+vector_db/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Conda/pip
+*.egg-info/
+
+# Redis dump
+dump.rdb
+```
